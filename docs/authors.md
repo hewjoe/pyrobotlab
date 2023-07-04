@@ -1,3 +1,3 @@
 {%
-  include-markdown "../AUTHORS.md"
+  include-relative "../AUTHORS.md"
 %}
